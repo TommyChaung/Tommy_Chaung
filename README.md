@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tommy Chaung
 ====================================================================================================================================
 
-Firmware Engineering Intern @ ROOBUCK
+Mechatronic Engineer @ ROOBUCK
 -------------------------------------
 
-FInal Year Mechatronic Engineering Student @ UNSW
+ Mechatronic Engineer From UNSW
 
 * 🌍  I'm based in Sydney, Australia
-* ✉️  You can contact me at [tommychaung16@gmail.com](mailto:tommychaung16@gmail.com)
+* ✉️  You can contact me at [tommychaung7@gmail.com](mailto:tommychaung7@gmail.com)
 
 ### Skills
 
